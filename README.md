@@ -1,6 +1,6 @@
 ### Hi there 👋, Im Dmytro
 
-## I'm a work in  QA Automation,JS, TypeScript, Webdriverio, Cypress
+## I'm  work in  QA Automation,JS, TypeScript, Webdriverio, Cypress
 - 💪 I like to write code
 - 👀 I’m interested in difficult tasks
 
