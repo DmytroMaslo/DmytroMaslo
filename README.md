@@ -31,10 +31,12 @@
 <a href="https://twitter.com/maslo_dmitry">
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png"/>
 </a>
-[![DmytroMaslo's github stats](https://github-readme-stats.vercel.app/api?username=DmytroMaslo)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <!--
+[![DmytroMaslo's github stats](https://github-readme-stats.vercel.app/api?username=DmytroMaslo)](https://github.com/anuraghazra/github-readme-stats)
+
 **DmytroMaslo/DmytroMaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://www.linkedin.com/in/azanir/">
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png"/>
