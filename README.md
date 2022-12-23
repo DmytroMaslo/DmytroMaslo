@@ -31,6 +31,7 @@
 <a href="https://twitter.com/maslo_dmitry">
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png"/>
 </a>
+[![DmytroMaslo's github stats](https://github-readme-stats.vercel.app/api?username=DmytroMaslo)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!--
