@@ -1,4 +1,5 @@
 ### Hi there 👋, Im Dmytro
+<!---
 
 ## I'm  work in  QA Automation,JS, TypeScript, Webdriverio, Cypress
 - 💪 I like to write code
@@ -33,7 +34,7 @@
 </a>
 
 </p>
-
+-->
 <!--
 [![DmytroMaslo's github stats](https://github-readme-stats.vercel.app/api?username=DmytroMaslo)](https://github.com/anuraghazra/github-readme-stats)
 
