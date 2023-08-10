@@ -1,4 +1,3 @@
-### Hi there 👋, Im Dmytro
 <!---
 
 ## I'm  work in  QA Automation,JS, TypeScript, Webdriverio, Cypress
